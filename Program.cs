@@ -1,8 +1,10 @@
-﻿public class Program
+﻿
+using static System.Console;
+public class Program
 {
-    public static Main()
+    public static void Main()
     {
-        Console.WriteLine("Hello Word");
+        WriteLine("Hello Word");
     }
 }
 
